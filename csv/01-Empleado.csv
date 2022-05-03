@@ -1,0 +1,21 @@
+APELLIDO,DIRECCION,DNI,EMAIL,FECHA_CONTRATACION,FECHA_NACIMIENTO,GENERO,ID_EMPLEADO,ID_NIVEL_ACCESO,NOMBRE,TELEFONO_MOVIL,TITULO_UNIVERSITARIO
+Cámara,"Pasadizo Lucio Cuadrado 44 Piso 6 ; Álava, 18146",36.436.879,severino.cámara423@altomail.com,2015-11-30,1974-02-19,M,1,1,Severino,+34918 92 28 92,Biotecnólogo
+Fernández,"Cuesta Isaura Merino 21 Piso 9 ; Melilla, 59268",32.095.204,marciano.fernández943@repiolamail.com,2013-07-23,1991-04-20,M,2,3,Marciano,+34 705961751,Bioquímico
+Diego,"Ronda de Galo Roura 29 Piso 5 ; Girona, 07943",20.934.893,paulino.diego927@fakemail.com,2021-03-10,1963-12-24,M,3,2,Paulino,+34717 43 53 00,Ingeniero Químico
+Amo,"Cuesta Epifanio Fuertes 16 Apt. 61 ; Burgos, 72644",35.701.738,jacinta.amo720@fakemail.com,2012-11-05,1993-06-11,F,4,2,Jacinta,+34 748181270,Farmacéutico
+Gálvez,"Camino de Leonor Sáez 9 Puerta 2 ; Málaga, 08666",29.306.162,santos.gálvez114@fakemail.com,2017-12-10,1971-09-21,M,5,1,Santos,+34675 87 37 08,Bioquímico
+Samper,"Avenida Jacinto Pintor 94; Salamanca, 98555",38.072.070,regina.samper547@truchomail.com,2015-07-30,1969-05-10,x,6,3,Regina,+34734098812,Bioquímico
+Ponce,"Ronda Jesús Pombo 5 Puerta 0 ; Valladolid, 64727",23.210.231,salomé.ponce289@altomail.com,2013-02-22,1962-07-30,F,7,3,Salomé,+34 709 370 135,Licenciado en Química
+Castañeda,"Avenida Rosendo Casado 363 Piso 0 ; Teruel, 87505",24.160.867,susanita.castañeda803@repiolamail.com,2019-02-16,1974-01-19,F,8,2,Susanita,+34 721 41 44 79,Licenciado en Química
+Badía,"Camino Manolo Villegas 645 Piso 4 ; Cáceres, 78333",35.783.994,sandra.badía802@repiolamail.com,2020-09-25,1962-10-31,F,9,1,Sandra,+34 725125992,Licenciado en Química
+Huertas,"Cuesta de Adelina Cifuentes 35; Salamanca, 44748",32.361.946,maría teresa.huertas403@truchomail.com,2021-02-17,1958-08-16,F,10,3,María Teresa,+34 726115935,Farmacéutico
+Vendrell,"C. Esther Pol 567 Puerta 6 ; Teruel, 25945",31.330.640,zaira.vendrell873@altomail.com,2012-12-31,1999-03-22,F,11,2,Zaira,+34 821 70 38 27,Licenciado en Química
+Manjón,"Camino Gervasio Casares 2 Piso 2 ; Cáceres, 88779",34.008.436,rufina.manjón805@fakemail.com,2016-09-28,1976-05-19,F,12,1,Rufina,+34690 87 50 17,Técnico Químico
+Nevado,"Via de Nico Uribe 57; Ourense, 10791",21.340.195,delfina.nevado340@truchomail.com,2018-05-02,1990-03-04,F,13,3,Delfina,+34 716 623 623,Ingeniero Químico
+Álvarez,"Paseo Áurea Calzada 611; Toledo, 40950",37.021.095,abril.álvarez703@fakemail.com,2018-07-20,1972-04-01,F,14,1,Abril,+34 843 46 64 50,Ingeniero Químico
+Nuñez,"Ronda Benjamín Neira 27; Toledo, 79436",22.005.862,lino.nuñez139@altomail.com,2013-09-10,1980-02-17,M,15,3,Lino,+34744 38 20 61,Licenciado en Química
+Parejo,"Via Lino Esteve 30 Piso 2 ; Granada, 12808",36.733.299,felicidad.parejo374@truchomail.com,2013-09-09,1985-01-03,x,16,2,Felicidad,+34745 12 97 53,Bioquímico
+Tomás,"Glorieta de Clímaco Páez 650; Alicante, 35482",31.726.998,odalis.tomás499@altomail.com,2012-12-17,1960-06-05,F,17,1,Odalis,+34708 36 07 50,Ingeniero Químico
+Querol,"Via de Adelardo Aragón 58 Puerta 8 ; Zaragoza, 02190",24.219.930,asdrubal.querol422@fakemail.com,2017-09-08,1997-11-10,M,18,3,Asdrubal,+34 979 01 50 49,Licenciado en Química
+Barrio,"Pasadizo de Amparo Fabregat 6; Teruel, 71170",37.651.107,luís.barrio925@repiolamail.com,2015-04-22,1975-12-03,M,19,1,Luís,+34739 948 655,Biotecnólogo
+Cadenas,"Pasaje de Vicente Rodríguez 59; Asturias, 56318",30.927.114,victorino.cadenas120@altomail.com,2020-07-11,1989-09-27,M,20,3,Victorino,+34 702257696,Técnico Químico

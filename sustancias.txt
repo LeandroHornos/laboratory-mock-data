@@ -1,0 +1,112 @@
+Acetato de Butilo
+Acetato de Etilo
+Acetato de Sodio
+Acetona
+Acido Acetico Glacial
+Acido Adipico
+Acido Aminoacetico
+Acido Benzoico
+Acido Borico
+Acido Caprilico
+Acido Citrico
+Acido Clorhidrico
+Acido Formico
+Acido Fosforico
+Acido Gluconico
+Acido Lactico
+Acido Nítrico
+Acido Oleico
+Acido Oxalico
+Acido Sulfúrico
+Agua Bidestilada
+Agua Destilada
+Agua Oxigenada
+Alcohol Bencilico
+Alcohol Isopropilico
+Antiespumante
+Benzoato de Sodio
+Bicarbonato de Sodio
+Borato de Sodio
+Borax
+Carbon Activado
+Carbonato de Calcio
+Carbonato de Litio
+Carbonato de Magnesio
+Carbonato de Potasio
+Carbonato de Sodio
+Ciclohexanona
+Citrato de Sodio
+Clorato de Potasio
+Clorato de Sodio
+Cloroformo
+Cloruro de Benzalconio
+Cloruro de Calcio
+Cloruro de Magnesio
+Cloruro de Metileno
+Cloruro de Potasio
+Cloruro de Sodio
+Dextrina
+Dextrosa
+Dietilenglicol
+Dioctil Ftalato
+Edta Acido
+Estearato de Butilo
+Estearato de Calcio
+Estearato de Magnesio
+Estearato de Sodio
+Etilenglicol
+Etilglicol
+Fluosilicato de Potasio
+Fluosilicato de Sodio
+Formol
+Glicerina
+Gluconato de Calcio
+Gluconato de Sodio
+Hidrato de Hidracina
+Ioduro de Potasio
+Lauril Sulfato de Sodio
+Metabisulfito de Potasio
+Metabisulfito de Sodio
+Metasilicato de Sodio
+Nitrato de Calcio
+Nitrato de Magnesio
+Nitrato de Potasio
+Nitrato de Sodio
+Nitrobenceno
+Oxido Cuprico
+Oxido de Magnesio
+Oxido de Zinc
+Parafina
+Percloroetileno
+Pirofosfato Acido de Sodio
+Pirofosfato de Potasio
+Potasa Caustica
+Propilenglicol
+Sacarina Sodica
+Silicagel
+Silicato de Sodio
+Soda Caustica
+Sorbato de Potasio
+Sorbitol
+Sulfato de Aluminio
+Sulfato de Amonio
+Sulfato de Bario
+Sulfato de Cobalto
+Sulfato de Cobre
+Sulfato de Magnesio
+Sulfato de Potasio
+Sulfato de Sodio
+Sulfato Ferroso
+Sulfito de Sodio
+Sulfuro de Sodio
+Tartrazina
+Tetracloruro de Carbono
+Tricloroetano
+Tricloroetileno
+Trietanolamina
+Tripolifosfato de Sodio
+Urea
+Vaselina Liquida
+Vaselina Sólida
+Xileno
+Yodo
