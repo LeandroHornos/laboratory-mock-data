@@ -1,21 +1,21 @@
-APELLIDO,DIRECCION,DNI,EMAIL,FECHA_CONTRATACION,FECHA_NACIMIENTO,GENERO,ID_EMPLEADO,ID_NIVEL_ACCESO,NOMBRE,TELEFONO_MOVIL,TITULO_UNIVERSITARIO
-Rosselló,"Acceso de Moreno Criado 62 Piso 6 ; Ciudad, 18321",37.846.212,eulalia.rosselló181@altomail.com,2018-08-01,1989-06-25,F,1,3,Eulalia,+34973 329 984,Ingeniero Químico
-Vendrell,"Callejón Perlita Tolosa 75; Pontevedra, 75518",29.629.232,teobaldo.vendrell137@repiolamail.com,2012-10-01,1982-07-13,M,2,2,Teobaldo,+34 727 269 981,Bioquímico
-Canet,"Cañada de Joaquín Quintanilla 10; Ávila, 46784",23.762.980,claudio.canet422@truchomail.com,2017-06-11,1971-11-21,M,3,2,Claudio,+34842 19 93 06,Bioquímico
-Carrión,"Rambla de Chema Botella 49 Puerta 1 ; Salamanca, 68065",29.849.585,amado.carrión779@repiolamail.com,2021-04-26,2002-05-07,M,4,3,Amado,+34736 511 076,Bioquímico
-Bernat,"Urbanización de Morena Bernat 15; Las Palmas, 79437",37.601.464,marciano.bernat278@altomail.com,2020-09-11,1992-08-06,M,5,3,Marciano,+34 892 711 418,Técnico Químico
-Sarmiento,"Vial de Hernán Macías 10; Baleares, 23726",26.879.420,gloria.sarmiento593@truchomail.com,2015-07-19,1973-07-27,F,6,2,Gloria,+34722289225,Técnico Químico
-Lago,"C. de Roque Sáez 9 Puerta 2 ; Málaga, 08666",32.041.093,victor.lago115@fakemail.com,2013-05-11,1984-10-23,M,7,3,Victor,+34696 17 51 74,Biotecnólogo
-Asensio,"Avenida Jacinto Pintor 94; Salamanca, 98555",38.939.557,teobaldo.asensio683@altomail.com,2018-06-21,1958-10-19,M,8,2,Teobaldo,+34 745300381,Farmacéutico
-Fuente,"Ronda Jesús Pombo 5 Puerta 0 ; Valladolid, 64727",21.738.193,leire.fuente598@fakemail.com,2016-02-14,1989-01-26,F,9,1,Leire,+34711270758,Licenciado en Química
-Naranjo,"Avenida Rosendo Casado 363 Piso 0 ; Teruel, 87505",26.162.978,maura.naranjo384@truchomail.com,2015-12-21,1980-04-15,F,10,2,Maura,+34743 708 940,Farmacéutico
-Gras,"Camino Manolo Villegas 645 Piso 4 ; Cáceres, 78333",27.207.033,juan.gras198@fakemail.com,2019-12-26,1959-12-30,M,11,2,Juan,+34748812093,Farmacéutico
-Mendoza,"Cuesta de Adelina Cifuentes 35; Salamanca, 44748",21.023.114,sebastián.mendoza778@fakemail.com,2014-03-10,1975-05-09,M,12,2,Sebastián,+34730 135 514,Técnico Químico
-Frías,"C. Esther Pol 567 Puerta 6 ; Teruel, 25945",26.086.775,alex.frías795@fakemail.com,2014-04-16,1991-04-15,M,13,1,Alex,+34 744 479 351,Biotecnólogo
-Escalona,"Camino Gervasio Casares 2 Piso 2 ; Cáceres, 88779",38.399.462,efraín.escalona555@fakemail.com,2020-02-29,1997-12-08,M,14,1,Efraín,+34 705992361,Biotecnólogo
-Chico,"Via de Nico Uribe 57; Ourense, 10791",26.194.641,reynaldo.chico119@truchomail.com,2012-12-14,1960-09-11,M,15,3,Reynaldo,+34 735 935 421,Ingeniero Químico
-Fabregat,"Paseo Áurea Calzada 611; Toledo, 40950",23.064.044,feliciana.fabregat743@repiolamail.com,2020-08-23,1962-05-22,F,16,1,Feliciana,+34720 382 790,Bioquímico
-Oliver,"Ronda Benjamín Neira 27; Toledo, 79436",20.843.601,manu.oliver487@repiolamail.com,2015-01-06,1981-07-12,M,17,1,Manu,+34707501706,Bioquímico
-Pelayo,"Via Lino Esteve 30 Piso 2 ; Granada, 12808",24.019.557,vera.pelayo301@truchomail.com,2019-08-23,1960-02-29,F,18,3,Vera,+34923 623 443,Biotecnólogo
-Redondo,"Glorieta de Clímaco Páez 650; Alicante, 35482",22.109.582,gervasio.redondo644@truchomail.com,2020-03-14,2001-12-23,M,19,3,Gervasio,+34 706 64 50 43,Técnico Químico
-Galvez,"Via de Adelardo Aragón 58 Puerta 8 ; Zaragoza, 02190",20.058.626,aníbal.galvez165@altomail.com,2019-11-21,1974-11-28,M,20,1,Aníbal,+34820615129,Ingeniero Químico
+APELLIDO,DIRECCION,DNI,FECHA_CONTRATACION,FECHA_NACIMIENTO,GENERO,ID_EMPLEADO,ID_NIVEL_ACCESO,TELEFONO_MOVIL,TITULO_UNIVERSITARIO
+Paredes,"Ronda de Ezequiel Bautista 650; Lleida, 68717",31.537.919,2016-03-09,1968-11-06,F,1,2,+34 734 981 403,Biotecnólogo
+Vega,"Via Felicia Alberto 9; Córdoba, 77386",23.649.495,2015-12-29,1967-07-07,M,2,1,+34936 811 967,Ingeniero Químico
+Dominguez,"Rambla Carlito Soriano 957 Apt. 73 ; Guipúzcoa, 98539",29.158.589,2013-02-27,1988-03-28,F,3,3,+34726123446,Ingeniero Químico
+Ramón,"Via de Gervasio Sevilla 665 Puerta 5 ; Albacete, 27204",28.982.034,2015-03-03,1961-12-12,F,4,3,+34986 294 324,Técnico Químico
+Figuerola,"Plaza de Máximo Abril 44 Piso 7 ; Zamora, 73597",39.144.146,2017-03-19,1997-12-07,F,5,1,+34687086014,Biotecnólogo
+Valero,"Alameda Bernabé Gimenez 47; Málaga, 37018",30.838.629,2012-11-05,2003-04-18,M,6,3,+34722 12 65 34,Biotecnólogo
+Arregui,"Pasaje Vito Riera 70 Puerta 3 ; La Coruña, 78319",37.914.311,2021-01-24,1970-09-20,F,7,1,+34707 12 59 63,Licenciado en Química
+Sotelo,"Ronda de Ale Araujo 16; Córdoba, 04564",21.544.349,2015-01-06,1981-03-23,F,8,1,+34 714 99 35 50,Farmacéutico
+Calderón,"Paseo Maricela Osorio 8 Apt. 57 ; Cantabria, 88222",38.395.816,2015-01-07,1959-11-16,M,9,1,+34719 46 86 04,Ingeniero Químico
+Duran,"Ronda Gisela Márquez 482 Puerta 0 ; Guipúzcoa, 58410",26.538.837,2016-02-13,1986-05-10,M,10,2,+34708 90 57 50,Técnico Químico
+Segura,"Cuesta Cristian Anaya 11 Puerta 3 ; Salamanca, 61980",27.705.887,2020-11-16,1995-01-02,F,11,1,+34746 733 184,Ingeniero Químico
+Oliveras,"Pasadizo de Eugenio Albero 22 Apt. 03 ; Jaén, 60798",20.189.432,2016-01-27,1986-12-24,F,12,2,+34960765009,Bioquímico
+Delgado,"C. de Genoveva Alcaraz 5; Asturias, 80356",26.666.213,2020-10-07,1987-10-17,M,13,3,+34 879890715,Licenciado en Química
+Amador,"Plaza de Aroa Acero 3 Apt. 81 ; Álava, 37217",30.078.285,2013-01-10,1996-08-20,F,14,3,+34716138623,Bioquímico
+Milla,"Pasadizo Rico Malo 10 Puerta 7 ; Palencia, 80500",31.174.414,2017-06-21,2001-09-12,F,15,3,+34 747 815 395,Ingeniero Químico
+Hurtado,"Vial de Lázaro Ríos 697 Apt. 05 ; Tarragona, 50097",26.128.456,2016-04-11,2002-08-26,M,16,3,+34728 85 20 43,Ingeniero Químico
+Alcántara,"C. de María Merino 8; Teruel, 31523",26.991.959,2019-08-06,1975-12-02,F,17,2,+34 743 55 17 81,Bioquímico
+Montoya,"Ronda de Che Sola 6 Puerta 1 ; La Coruña, 99791",36.735.697,2016-04-06,2002-08-15,M,18,2,+34 703060285,Farmacéutico
+Solano,"Via Griselda Mariscal 805; Segovia, 18907",27.674.282,2018-04-02,1961-12-11,M,19,3,+34 727 81 68 60,Licenciado en Química
+Ripoll,"Alameda de Perla Dueñas 9; La Coruña, 74788",30.574.466,2020-06-18,1986-07-13,F,20,2,+34 723 224 173,Bioquímico
