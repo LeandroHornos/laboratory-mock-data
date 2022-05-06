@@ -1,0 +1,21 @@
+ID_STOCK_EQUIPOS,ID_EQUIPAMIENTO,UBICACION,CANTIDAD,FECHA_INGRESO
+1,3,Estante,6,2018-02-06
+2,1,Depósito B,1,2018-03-03
+3,3,Bajomesada,7,2016-07-10
+4,13,Depósito B,2,2014-10-07
+5,17,Bajomesada,10,2014-03-30
+6,5,Bajomesada,6,2015-05-12
+7,12,Depósito A,3,2021-09-15
+8,6,Estante,10,2020-01-20
+9,13,Depósito A,5,2018-03-26
+10,6,Bajomesada,6,2014-03-20
+11,12,Depósito A,4,2020-02-14
+12,13,Depósito B,2,2013-03-21
+13,17,Depósito A,5,2019-03-12
+14,15,Depósito A,5,2020-12-22
+15,16,Estante,7,2019-09-28
+16,12,Estante,10,2020-05-02
+17,9,Estante,5,2017-01-12
+18,2,Bajomesada,6,2013-03-18
+19,2,Depósito A,8,2017-08-29
+20,20,Depósito A,1,2015-08-06

@@ -1,0 +1,201 @@
+ID_STOCK_SUSTANCIAS,ID_SUSTANCIA,UBICACION,CANTIDAD,UNIDAD,MARCA,FECHA_INGRESO,FECHA_CADUCIDAD
+1,12,Bajomesada,470,l,Merke,2012-07-12,2014-07-12
+2,42,Depósito A,199,kg,WW Chemicals,2017-03-19,2019-03-19
+3,10,Estante,438,g,WW Chemicals,2016-09-18,2018-09-18
+4,4,Depósito A,265,ml,Química El Cholo,2014-04-06,2016-04-05
+5,46,Depósito B,128,l,Química El Cholo,2012-12-23,2014-12-23
+6,2,Bajomesada,84,ml,Merke,2016-12-08,2018-12-08
+7,48,Bajomesada,330,l,Merke,2017-11-11,2019-11-11
+8,36,Bajomesada,225,kg,Merke,2019-06-07,2021-06-06
+9,31,Estante,69,g,Forza Pharmaceuticals,2017-04-10,2019-04-10
+10,12,Bajomesada,210,l,Simba Arlich,2016-01-08,2018-01-07
+11,31,Estante,385,g,Simba Arlich,2019-02-24,2021-02-23
+12,19,Depósito B,357,ml,Forza Pharmaceuticals,2012-11-03,2014-11-03
+13,1,Depósito B,77,kg,Química El Cholo,2018-05-03,2020-05-02
+14,32,Estante,286,ml,WW Chemicals,2013-06-18,2015-06-18
+15,46,Estante,333,ml,Simba Arlich,2020-07-26,2022-07-26
+16,35,Estante,225,kg,Química El Cholo,2015-10-17,2017-10-16
+17,1,Bajomesada,252,kg,Química El Cholo,2018-01-08,2020-01-08
+18,38,Depósito B,321,g,Merke,2020-01-04,2022-01-03
+19,33,Depósito B,297,ml,Forza Pharmaceuticals,2019-04-06,2021-04-05
+20,35,Depósito A,107,g,WW Chemicals,2015-10-02,2017-10-01
+21,7,Estante,483,g,Forza Pharmaceuticals,2014-01-06,2016-01-06
+22,4,Bajomesada,292,kg,Forza Pharmaceuticals,2014-10-23,2016-10-22
+23,41,Bajomesada,425,l,Simba Arlich,2014-07-29,2016-07-28
+24,49,Bajomesada,426,kg,Simba Arlich,2015-03-10,2017-03-09
+25,6,Bajomesada,274,g,Simba Arlich,2019-06-21,2021-06-20
+26,36,Estante,68,ml,Merke,2019-06-06,2021-06-05
+27,34,Depósito B,335,l,Merke,2016-06-05,2018-06-05
+28,48,Depósito A,108,ml,WW Chemicals,2019-07-02,2021-07-01
+29,8,Depósito A,104,l,Forza Pharmaceuticals,2017-12-29,2019-12-29
+30,18,Estante,376,g,Forza Pharmaceuticals,2021-02-08,2023-02-08
+31,26,Bajomesada,56,kg,Química El Cholo,2014-06-20,2016-06-19
+32,25,Depósito A,111,kg,Forza Pharmaceuticals,2015-10-09,2017-10-08
+33,15,Estante,395,kg,WW Chemicals,2012-06-26,2014-06-26
+34,28,Bajomesada,420,kg,Química El Cholo,2016-05-16,2018-05-16
+35,39,Depósito B,377,g,Química El Cholo,2017-12-30,2019-12-30
+36,29,Depósito A,322,ml,Forza Pharmaceuticals,2014-12-16,2016-12-15
+37,43,Estante,315,kg,WW Chemicals,2018-04-05,2020-04-04
+38,24,Depósito B,202,kg,Forza Pharmaceuticals,2017-04-08,2019-04-08
+39,50,Depósito A,182,ml,WW Chemicals,2014-03-26,2016-03-25
+40,7,Depósito B,84,g,Merke,2012-12-06,2014-12-06
+41,13,Bajomesada,418,kg,Merke,2017-09-05,2019-09-05
+42,47,Depósito A,281,ml,Química El Cholo,2017-05-05,2019-05-05
+43,2,Bajomesada,376,g,WW Chemicals,2013-03-29,2015-03-29
+44,41,Estante,304,g,WW Chemicals,2020-10-28,2022-10-28
+45,33,Bajomesada,392,ml,Química El Cholo,2014-01-29,2016-01-29
+46,21,Depósito B,176,ml,Forza Pharmaceuticals,2012-10-24,2014-10-24
+47,20,Estante,335,l,WW Chemicals,2020-07-11,2022-07-11
+48,16,Depósito B,272,g,WW Chemicals,2014-01-29,2016-01-29
+49,8,Depósito A,149,l,Simba Arlich,2012-06-13,2014-06-13
+50,44,Estante,202,ml,Forza Pharmaceuticals,2016-03-24,2018-03-24
+51,46,Bajomesada,98,g,WW Chemicals,2017-03-12,2019-03-12
+52,2,Depósito B,137,l,Forza Pharmaceuticals,2016-12-17,2018-12-17
+53,32,Depósito A,88,ml,Merke,2019-09-06,2021-09-05
+54,18,Depósito A,290,ml,Química El Cholo,2014-03-04,2016-03-03
+55,46,Bajomesada,464,kg,WW Chemicals,2021-01-03,2023-01-03
+56,33,Estante,415,kg,Forza Pharmaceuticals,2013-03-05,2015-03-05
+57,23,Depósito A,356,l,WW Chemicals,2013-10-17,2015-10-17
+58,6,Estante,455,kg,Química El Cholo,2020-03-29,2022-03-29
+59,1,Bajomesada,415,kg,Química El Cholo,2019-10-04,2021-10-03
+60,25,Estante,235,l,WW Chemicals,2021-04-03,2023-04-03
+61,38,Depósito A,297,ml,Química El Cholo,2014-10-31,2016-10-30
+62,23,Depósito A,312,kg,WW Chemicals,2012-07-18,2014-07-18
+63,36,Depósito B,142,ml,Forza Pharmaceuticals,2019-06-13,2021-06-12
+64,28,Depósito B,436,ml,Merke,2015-02-28,2017-02-27
+65,41,Depósito B,302,l,Forza Pharmaceuticals,2013-10-08,2015-10-08
+66,20,Bajomesada,163,ml,WW Chemicals,2012-09-13,2014-09-13
+67,50,Depósito B,147,l,Química El Cholo,2012-11-10,2014-11-10
+68,19,Bajomesada,224,kg,Química El Cholo,2016-03-31,2018-03-31
+69,44,Bajomesada,267,ml,Química El Cholo,2018-10-30,2020-10-29
+70,17,Estante,355,g,WW Chemicals,2018-12-03,2020-12-02
+71,24,Depósito B,323,ml,Merke,2016-02-10,2018-02-09
+72,10,Depósito A,210,ml,Simba Arlich,2019-01-19,2021-01-18
+73,30,Bajomesada,380,g,Simba Arlich,2012-09-10,2014-09-10
+74,49,Depósito A,384,l,Simba Arlich,2020-09-29,2022-09-29
+75,29,Bajomesada,453,g,Química El Cholo,2021-01-15,2023-01-15
+76,31,Estante,450,g,Forza Pharmaceuticals,2020-03-26,2022-03-26
+77,48,Depósito B,172,kg,Merke,2013-12-10,2015-12-10
+78,50,Depósito A,357,kg,WW Chemicals,2018-11-28,2020-11-27
+79,25,Depósito B,476,l,Simba Arlich,2019-03-06,2021-03-05
+80,3,Bajomesada,105,g,Simba Arlich,2012-08-02,2014-08-02
+81,41,Depósito A,255,ml,Simba Arlich,2012-05-29,2014-05-29
+82,10,Estante,217,kg,Simba Arlich,2017-08-09,2019-08-09
+83,26,Depósito B,383,kg,Simba Arlich,2012-12-07,2014-12-07
+84,30,Bajomesada,360,ml,Simba Arlich,2013-06-23,2015-06-23
+85,5,Bajomesada,102,g,Química El Cholo,2018-05-29,2020-05-28
+86,14,Depósito A,143,kg,WW Chemicals,2012-08-28,2014-08-28
+87,8,Estante,286,g,WW Chemicals,2016-06-04,2018-06-04
+88,47,Estante,383,kg,Forza Pharmaceuticals,2018-09-01,2020-08-31
+89,25,Estante,376,ml,WW Chemicals,2019-01-31,2021-01-30
+90,39,Bajomesada,445,kg,Forza Pharmaceuticals,2017-03-27,2019-03-27
+91,35,Bajomesada,369,g,Merke,2018-03-29,2020-03-28
+92,35,Bajomesada,269,g,WW Chemicals,2017-02-10,2019-02-10
+93,30,Depósito A,412,l,Merke,2012-09-22,2014-09-22
+94,45,Bajomesada,218,g,Simba Arlich,2021-01-29,2023-01-29
+95,36,Depósito B,499,l,Química El Cholo,2012-05-23,2014-05-23
+96,1,Bajomesada,353,g,WW Chemicals,2013-06-28,2015-06-28
+97,22,Depósito A,226,g,WW Chemicals,2015-04-19,2017-04-18
+98,46,Depósito B,403,g,Simba Arlich,2014-06-27,2016-06-26
+99,32,Depósito A,219,ml,Merke,2014-03-02,2016-03-01
+100,11,Estante,298,kg,Química El Cholo,2016-04-11,2018-04-11
+101,22,Estante,63,ml,Química El Cholo,2012-07-18,2014-07-18
+102,34,Depósito B,122,g,Simba Arlich,2012-08-15,2014-08-15
+103,20,Depósito A,116,kg,Forza Pharmaceuticals,2015-08-27,2017-08-26
+104,2,Estante,489,ml,Química El Cholo,2020-04-10,2022-04-10
+105,27,Bajomesada,377,kg,Forza Pharmaceuticals,2014-12-07,2016-12-06
+106,9,Bajomesada,284,l,Simba Arlich,2013-10-22,2015-10-22
+107,45,Depósito B,126,ml,Simba Arlich,2019-10-26,2021-10-25
+108,4,Estante,397,l,Merke,2013-11-05,2015-11-05
+109,16,Bajomesada,463,g,Simba Arlich,2018-01-13,2020-01-13
+110,9,Depósito A,54,kg,Química El Cholo,2016-02-19,2018-02-18
+111,42,Depósito B,459,g,WW Chemicals,2021-01-17,2023-01-17
+112,47,Depósito B,194,g,Merke,2018-10-30,2020-10-29
+113,5,Bajomesada,417,ml,Merke,2017-04-01,2019-04-01
+114,29,Depósito A,51,l,WW Chemicals,2017-07-31,2019-07-31
+115,9,Bajomesada,184,g,WW Chemicals,2012-10-24,2014-10-24
+116,38,Estante,258,l,Merke,2012-07-11,2014-07-11
+117,38,Estante,56,kg,Química El Cholo,2020-08-23,2022-08-23
+118,32,Depósito B,216,l,WW Chemicals,2013-06-16,2015-06-16
+119,25,Depósito B,51,l,Simba Arlich,2019-06-28,2021-06-27
+120,7,Estante,190,l,WW Chemicals,2020-12-28,2022-12-28
+121,20,Bajomesada,193,kg,Simba Arlich,2012-11-28,2014-11-28
+122,11,Depósito A,461,ml,Merke,2017-12-25,2019-12-25
+123,41,Depósito B,355,g,Forza Pharmaceuticals,2012-12-07,2014-12-07
+124,18,Bajomesada,172,kg,Simba Arlich,2012-08-05,2014-08-05
+125,25,Depósito A,241,kg,Simba Arlich,2014-01-02,2016-01-02
+126,16,Bajomesada,295,ml,Química El Cholo,2017-07-29,2019-07-29
+127,31,Depósito A,66,l,WW Chemicals,2020-07-08,2022-07-08
+128,36,Depósito A,454,kg,WW Chemicals,2014-12-15,2016-12-14
+129,9,Estante,487,ml,Simba Arlich,2017-04-28,2019-04-28
+130,42,Estante,149,l,Química El Cholo,2019-10-18,2021-10-17
+131,48,Depósito A,390,l,WW Chemicals,2019-10-28,2021-10-27
+132,31,Depósito A,291,ml,Forza Pharmaceuticals,2018-01-17,2020-01-17
+133,4,Depósito A,175,l,Merke,2012-06-16,2014-06-16
+134,30,Estante,220,ml,Simba Arlich,2013-05-22,2015-05-22
+135,6,Depósito B,365,l,Simba Arlich,2018-09-03,2020-09-02
+136,18,Depósito B,286,l,WW Chemicals,2018-05-05,2020-05-04
+137,3,Depósito B,59,g,Química El Cholo,2017-05-02,2019-05-02
+138,33,Depósito B,476,kg,Simba Arlich,2018-08-20,2020-08-19
+139,17,Estante,56,l,Química El Cholo,2013-02-09,2015-02-09
+140,2,Estante,469,ml,Forza Pharmaceuticals,2013-01-17,2015-01-17
+141,27,Depósito B,119,g,WW Chemicals,2020-08-20,2022-08-20
+142,1,Depósito B,215,g,Simba Arlich,2016-04-30,2018-04-30
+143,1,Depósito A,81,kg,Merke,2014-02-23,2016-02-23
+144,26,Bajomesada,162,ml,Merke,2020-01-29,2022-01-28
+145,15,Depósito A,276,kg,WW Chemicals,2019-01-18,2021-01-17
+146,17,Depósito B,390,l,Forza Pharmaceuticals,2017-08-21,2019-08-21
+147,16,Estante,285,ml,Merke,2014-04-22,2016-04-21
+148,32,Depósito B,164,ml,Simba Arlich,2020-08-10,2022-08-10
+149,34,Depósito A,266,kg,WW Chemicals,2014-10-03,2016-10-02
+150,10,Depósito A,308,g,WW Chemicals,2014-08-11,2016-08-10
+151,35,Estante,180,g,Merke,2015-10-22,2017-10-21
+152,23,Bajomesada,160,ml,Merke,2014-05-19,2016-05-18
+153,37,Estante,497,l,Simba Arlich,2017-09-13,2019-09-13
+154,4,Depósito B,378,g,Forza Pharmaceuticals,2014-07-14,2016-07-13
+155,7,Depósito B,283,ml,Simba Arlich,2016-06-05,2018-06-05
+156,10,Depósito A,433,ml,Forza Pharmaceuticals,2017-12-19,2019-12-19
+157,34,Bajomesada,73,kg,Simba Arlich,2021-01-21,2023-01-21
+158,25,Bajomesada,404,g,WW Chemicals,2017-08-07,2019-08-07
+159,2,Depósito A,86,kg,Forza Pharmaceuticals,2017-12-20,2019-12-20
+160,10,Bajomesada,331,g,Simba Arlich,2019-05-04,2021-05-03
+161,29,Depósito B,239,ml,Química El Cholo,2013-10-16,2015-10-16
+162,44,Depósito A,314,l,Química El Cholo,2020-04-02,2022-04-02
+163,30,Depósito B,444,ml,WW Chemicals,2013-04-01,2015-04-01
+164,41,Depósito A,308,g,Química El Cholo,2018-03-30,2020-03-29
+165,35,Bajomesada,293,kg,Simba Arlich,2013-09-02,2015-09-02
+166,30,Estante,101,g,WW Chemicals,2013-08-16,2015-08-16
+167,19,Bajomesada,283,ml,Simba Arlich,2019-02-28,2021-02-27
+168,8,Depósito A,281,g,Simba Arlich,2019-12-13,2021-12-12
+169,19,Estante,263,l,Merke,2020-09-13,2022-09-13
+170,11,Depósito A,194,ml,Simba Arlich,2014-05-13,2016-05-12
+171,25,Depósito B,64,ml,Merke,2013-05-19,2015-05-19
+172,31,Depósito B,258,ml,Forza Pharmaceuticals,2015-05-14,2017-05-13
+173,36,Depósito A,423,kg,Química El Cholo,2014-07-19,2016-07-18
+174,29,Estante,404,kg,Forza Pharmaceuticals,2014-04-22,2016-04-21
+175,11,Depósito A,496,l,Simba Arlich,2017-05-04,2019-05-04
+176,3,Depósito B,176,l,WW Chemicals,2013-02-20,2015-02-20
+177,43,Depósito A,232,kg,WW Chemicals,2018-09-07,2020-09-06
+178,19,Bajomesada,252,g,Química El Cholo,2020-08-09,2022-08-09
+179,23,Estante,476,g,Simba Arlich,2021-02-13,2023-02-13
+180,50,Depósito B,198,g,Forza Pharmaceuticals,2013-11-15,2015-11-15
+181,10,Depósito A,453,g,Química El Cholo,2015-01-07,2017-01-06
+182,41,Bajomesada,304,l,Forza Pharmaceuticals,2013-11-01,2015-11-01
+183,33,Depósito A,320,g,Química El Cholo,2021-05-03,2023-05-03
+184,39,Depósito B,156,ml,Forza Pharmaceuticals,2012-11-23,2014-11-23
+185,41,Depósito B,418,l,Simba Arlich,2020-06-27,2022-06-27
+186,19,Depósito B,104,g,Merke,2020-02-24,2022-02-23
+187,41,Estante,358,kg,Forza Pharmaceuticals,2013-02-22,2015-02-22
+188,49,Depósito B,421,kg,Forza Pharmaceuticals,2019-06-19,2021-06-18
+189,24,Bajomesada,359,g,WW Chemicals,2018-01-04,2020-01-04
+190,14,Depósito A,223,g,Forza Pharmaceuticals,2015-04-07,2017-04-06
+191,2,Estante,367,ml,WW Chemicals,2012-08-27,2014-08-27
+192,50,Bajomesada,92,l,WW Chemicals,2021-03-23,2023-03-23
+193,13,Estante,209,g,Química El Cholo,2017-07-28,2019-07-28
+194,19,Depósito B,430,ml,Química El Cholo,2019-03-09,2021-03-08
+195,39,Depósito A,460,g,Forza Pharmaceuticals,2014-07-15,2016-07-14
+196,27,Estante,260,g,WW Chemicals,2020-07-31,2022-07-31
+197,42,Depósito B,294,kg,Merke,2017-01-26,2019-01-26
+198,47,Depósito B,68,l,WW Chemicals,2020-01-09,2022-01-08
+199,12,Bajomesada,207,kg,WW Chemicals,2016-03-10,2018-03-10
+200,37,Depósito B,246,kg,Simba Arlich,2015-12-30,2017-12-29
