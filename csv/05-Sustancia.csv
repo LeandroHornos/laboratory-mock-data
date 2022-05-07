@@ -1,51 +1,51 @@
-ID_SUSTANCIA,ID_NIVEL_ACCESO,NOMBRE_COMUN,NRO_CAS,NOMBRE_IUPAC,SMILES,PESO_MOLECULAR
-1,1,Alcohol Bencilico,28-125-394,alcohol-bencilico,cnIccc(O)cccc,446.1613280579919
-2,2,Bicarbonato de Sodio,02-270-431,bicarbonato-de-sodio,(c)ccccccssocccoccc(S)cnc(O)c,118.56076064648686
-3,1,Carbonato de Litio,13-450-361,carbonato-de-litio,ncc(o)ccccccccClcc(S)cc(n)ccc,228.67190964767047
-4,3,Pirofosfato Acido de Sodio,52-049-502,pirofosfato-acido-de-sodio,ccccnScc(S)c(o)cc(C)ccccccccc,636.9267494705612
-5,1,Acetona,09-535-890,acetona,nccc(o)c(C)cc(C)(o)cO,401.9406687129696
-6,3,Sulfato de Cobre,16-842-568,sulfato-de-cobre,c(s)c(c)ccccc(c)nF(S)(n)ccFsc,340.38269133428685
-7,1,Acido Sulfúrico,34-191-323,acido-sulfúrico,ccccccFccccBrccccccccc(c)cccccc,257.62895863597856
-8,1,Acido Oleico,93-286-996,acido-oleico,(s)ccc(S)cccClcI(O)c(s)cFccc,322.6828929785799
-9,3,Acetato de Etilo,15-493-162,acetato-de-etilo,cocCsI(o)ccccccccncco,529.1738035724532
-10,3,Acido Nítrico,41-772-424,acido-nítrico,ccccc(s)cClsCcccccc(c)cccBr(c)cc,290.3157144960127
-11,2,Acetona,21-857-249,acetona,(n)c(s)ccccccccIcc,446.9544002617856
-12,3,Acido Benzoico,59-466-918,acido-benzoico,ccccccBrcScccc(c)cccccccccc,109.45560396024575
-13,2,Sulfato de Magnesio,25-121-648,sulfato-de-magnesio,sFcc(o)Brccc(s)c,511.454579729948
-14,1,Sulfuro de Sodio,74-672-895,sulfuro-de-sodio,occcFcccccc(c)c(O)FccccIcBrcIcccccc,443.1523588488424
-15,1,Acetato de Butilo,69-066-181,acetato-de-butilo,ccc(n)cc(n)c(c)(S)CsSc,252.6489260048928
-16,2,Lauril Sulfato de Sodio,36-326-248,lauril-sulfato-de-sodio,cFc(n)CcccccsClcccsccccScc(n),513.950728633088
-17,1,Carbon Activado,20-103-810,carbon-activado,Scccoccc(n)Fc,244.3752119269967
-18,1,Agua Bidestilada,30-137-816,agua-bidestilada,(C)ccccccccFnccccc(C)c(O)cccccc,270.157334911428
-19,2,Nitrato de Sodio,23-806-555,nitrato-de-sodio,ScccccOc(c)c(O)c(n)cccccssccccccSFn,344.0435832294703
-20,3,Silicagel,53-659-704,silicagel,cccIccccccBrccccccccccClc(S)c,536.5465603774632
-21,2,Tripolifosfato de Sodio,50-652-551,tripolifosfato-de-sodio,cccccc(C)(c)(o)coccClcc(s)ccccccc(O)cBrc,574.6289494138616
-22,2,Silicato de Sodio,77-398-413,silicato-de-sodio,s(n)Brccccnsc,407.594504970796
-23,3,Dextrosa,64-999-973,dextrosa,ccCccsc(s)Clc,556.580417690209
-24,2,Sorbato de Potasio,04-191-463,sorbato-de-potasio,cc(o)(o)coccccCIcccc(s)cBrccocc,625.6064577252064
-25,2,Bicarbonato de Sodio,50-399-499,bicarbonato-de-sodio,ccFccOS(o)cccccccFcc(c)cc(O),394.0009276275489
-26,3,Acido Lactico,64-884-928,acido-lactico,cccoccScccc,588.7517864502864
-27,2,Lauril Sulfato de Sodio,67-221-237,lauril-sulfato-de-sodio,IcFcccccccClBrc(s)BrcccccCccc,146.9678452717901
-28,2,Acido Nítrico,88-166-494,acido-nítrico,(c)(o)(c)cccn(C)ScccClccccc(S)FccnccccI(C),121.45939178881724
-29,3,Gluconato de Calcio,72-888-238,gluconato-de-calcio,ccccccc(c)Br(n)ccFccco(s)(c)cccsc(c)cccc,407.0185249679498
-30,3,Acido Fosforico,74-285-027,acido-fosforico,Occccc(O)ccCccccccFsccccc,583.6210803837316
-31,3,Etilenglicol,06-779-912,etilenglicol,ccnccc(S)(c)csccccScSBr,327.15339056605995
-32,3,Pirofosfato de Potasio,69-658-257,pirofosfato-de-potasio,(n)c(C)cc(O)(s)FccccnS(c)CccIccccIc,540.8936971673531
-33,2,Sorbato de Potasio,23-280-027,sorbato-de-potasio,cOcccccccCF(S)cc(c),416.0620088373535
-34,1,Cloroformo,91-477-362,cloroformo,cccc(s)cccc(c),658.4407712714024
-35,1,Agua Destilada,42-746-340,agua-destilada,c(O)ccc(o)ccOccccc,141.9379676358866
-36,2,Acido Benzoico,56-764-528,acido-benzoico,c(S)cccccccn(O)cncccc,283.5434828551992
-37,1,Cloruro de Magnesio,68-277-320,cloruro-de-magnesio,(C)ccBrcc(o)cc(s)(S)ccccc(C)(c)cc,494.6159378654508
-38,2,Agua Bidestilada,57-822-026,agua-bidestilada,ccccF(C)ccccccClcIcSccc,359.65501011042244
-39,2,Nitrato de Magnesio,06-997-078,nitrato-de-magnesio,cc(o)Clncccccc(C)ccccc(C)cccccc(O)ccScc,360.28900684836185
-40,1,Cloruro de Metileno,14-633-888,cloruro-de-metileno,c(o)ccccOccccccnc(C)c,652.6005399904958
-41,1,Agua Destilada,73-109-399,agua-destilada,cccc(c)cccc(c)cco(s)ccCFIcccFcc,114.75484501203977
-42,3,Silicato de Sodio,34-586-671,silicato-de-sodio,FccccccFcF,215.2356959966652
-43,2,Glicerina,35-728-260,glicerina,CcccccFcBrC(S)Cl,189.0774298698057
-44,3,Carbonato de Magnesio,65-267-751,carbonato-de-magnesio,cIocI(C)Scccc,611.8280244031031
-45,1,Ioduro de Potasio,71-586-844,ioduro-de-potasio,ccccccccccc(n)cc(n)(o)ccccc(o),125.98051705903887
-46,2,Carbonato de Potasio,50-946-788,carbonato-de-potasio,(c)(s)nccccccccccOccClccCl,616.7335189506366
-47,2,Estearato de Magnesio,72-963-870,estearato-de-magnesio,(O)cc(C)Fc(C)ccccccBrcc(S)cCl,143.10099738298644
-48,3,Acido Adipico,43-527-984,acido-adipico,cFc(S)cccScc,216.6582819265012
-49,2,Propilenglicol,03-412-845,propilenglicol,(C)cO(s)cc(c)Oc(c),118.6382201581349
-50,2,Acetato de Etilo,15-275-786,acetato-de-etilo,occcccc(C)ccc(c)ccOIcccccClc(s)Clcc,697.2291235942917
+ID_SUSTANCIA;ID_NIVEL_ACCESO;NOMBRE_COMUN;NRO_CAS;NOMBRE_IUPAC;SMILES;PESO_MOLECULAR
+1;1;Alcohol Bencilico;28-125-394;alcohol-bencilico;cnIccc(O)cccc;446.1613280579919
+2;2;Bicarbonato de Sodio;02-270-431;bicarbonato-de-sodio;(c)ccccccssocccoccc(S)cnc(O)c;118.56076064648686
+3;1;Carbonato de Litio;13-450-361;carbonato-de-litio;ncc(o)ccccccccClcc(S)cc(n)ccc;228.67190964767047
+4;3;Pirofosfato Acido de Sodio;52-049-502;pirofosfato-acido-de-sodio;ccccnScc(S)c(o)cc(C)ccccccccc;636.9267494705612
+5;1;Acetona;09-535-890;acetona;nccc(o)c(C)cc(C)(o)cO;401.9406687129696
+6;3;Sulfato de Cobre;16-842-568;sulfato-de-cobre;c(s)c(c)ccccc(c)nF(S)(n)ccFsc;340.38269133428685
+7;1;Acido Sulfúrico;34-191-323;acido-sulfúrico;ccccccFccccBrccccccccc(c)cccccc;257.62895863597856
+8;1;Acido Oleico;93-286-996;acido-oleico;(s)ccc(S)cccClcI(O)c(s)cFccc;322.6828929785799
+9;3;Acetato de Etilo;15-493-162;acetato-de-etilo;cocCsI(o)ccccccccncco;529.1738035724532
+10;3;Acido Nítrico;41-772-424;acido-nítrico;ccccc(s)cClsCcccccc(c)cccBr(c)cc;290.3157144960127
+11;2;Acetona;21-857-249;acetona;(n)c(s)ccccccccIcc;446.9544002617856
+12;3;Acido Benzoico;59-466-918;acido-benzoico;ccccccBrcScccc(c)cccccccccc;109.45560396024575
+13;2;Sulfato de Magnesio;25-121-648;sulfato-de-magnesio;sFcc(o)Brccc(s)c;511.454579729948
+14;1;Sulfuro de Sodio;74-672-895;sulfuro-de-sodio;occcFcccccc(c)c(O)FccccIcBrcIcccccc;443.1523588488424
+15;1;Acetato de Butilo;69-066-181;acetato-de-butilo;ccc(n)cc(n)c(c)(S)CsSc;252.6489260048928
+16;2;Lauril Sulfato de Sodio;36-326-248;lauril-sulfato-de-sodio;cFc(n)CcccccsClcccsccccScc(n);513.950728633088
+17;1;Carbon Activado;20-103-810;carbon-activado;Scccoccc(n)Fc;244.3752119269967
+18;1;Agua Bidestilada;30-137-816;agua-bidestilada;(C)ccccccccFnccccc(C)c(O)cccccc;270.157334911428
+19;2;Nitrato de Sodio;23-806-555;nitrato-de-sodio;ScccccOc(c)c(O)c(n)cccccssccccccSFn;344.0435832294703
+20;3;Silicagel;53-659-704;silicagel;cccIccccccBrccccccccccClc(S)c;536.5465603774632
+21;2;Tripolifosfato de Sodio;50-652-551;tripolifosfato-de-sodio;cccccc(C)(c)(o)coccClcc(s)ccccccc(O)cBrc;574.6289494138616
+22;2;Silicato de Sodio;77-398-413;silicato-de-sodio;s(n)Brccccnsc;407.594504970796
+23;3;Dextrosa;64-999-973;dextrosa;ccCccsc(s)Clc;556.580417690209
+24;2;Sorbato de Potasio;04-191-463;sorbato-de-potasio;cc(o)(o)coccccCIcccc(s)cBrccocc;625.6064577252064
+25;2;Bicarbonato de Sodio;50-399-499;bicarbonato-de-sodio;ccFccOS(o)cccccccFcc(c)cc(O);394.0009276275489
+26;3;Acido Lactico;64-884-928;acido-lactico;cccoccScccc;588.7517864502864
+27;2;Lauril Sulfato de Sodio;67-221-237;lauril-sulfato-de-sodio;IcFcccccccClBrc(s)BrcccccCccc;146.9678452717901
+28;2;Acido Nítrico;88-166-494;acido-nítrico;(c)(o)(c)cccn(C)ScccClccccc(S)FccnccccI(C);121.45939178881724
+29;3;Gluconato de Calcio;72-888-238;gluconato-de-calcio;ccccccc(c)Br(n)ccFccco(s)(c)cccsc(c)cccc;407.0185249679498
+30;3;Acido Fosforico;74-285-027;acido-fosforico;Occccc(O)ccCccccccFsccccc;583.6210803837316
+31;3;Etilenglicol;06-779-912;etilenglicol;ccnccc(S)(c)csccccScSBr;327.15339056605995
+32;3;Pirofosfato de Potasio;69-658-257;pirofosfato-de-potasio;(n)c(C)cc(O)(s)FccccnS(c)CccIccccIc;540.8936971673531
+33;2;Sorbato de Potasio;23-280-027;sorbato-de-potasio;cOcccccccCF(S)cc(c);416.0620088373535
+34;1;Cloroformo;91-477-362;cloroformo;cccc(s)cccc(c);658.4407712714024
+35;1;Agua Destilada;42-746-340;agua-destilada;c(O)ccc(o)ccOccccc;141.9379676358866
+36;2;Acido Benzoico;56-764-528;acido-benzoico;c(S)cccccccn(O)cncccc;283.5434828551992
+37;1;Cloruro de Magnesio;68-277-320;cloruro-de-magnesio;(C)ccBrcc(o)cc(s)(S)ccccc(C)(c)cc;494.6159378654508
+38;2;Agua Bidestilada;57-822-026;agua-bidestilada;ccccF(C)ccccccClcIcSccc;359.65501011042244
+39;2;Nitrato de Magnesio;06-997-078;nitrato-de-magnesio;cc(o)Clncccccc(C)ccccc(C)cccccc(O)ccScc;360.28900684836185
+40;1;Cloruro de Metileno;14-633-888;cloruro-de-metileno;c(o)ccccOccccccnc(C)c;652.6005399904958
+41;1;Agua Destilada;73-109-399;agua-destilada;cccc(c)cccc(c)cco(s)ccCFIcccFcc;114.75484501203977
+42;3;Silicato de Sodio;34-586-671;silicato-de-sodio;FccccccFcF;215.2356959966652
+43;2;Glicerina;35-728-260;glicerina;CcccccFcBrC(S)Cl;189.0774298698057
+44;3;Carbonato de Magnesio;65-267-751;carbonato-de-magnesio;cIocI(C)Scccc;611.8280244031031
+45;1;Ioduro de Potasio;71-586-844;ioduro-de-potasio;ccccccccccc(n)cc(n)(o)ccccc(o);125.98051705903887
+46;2;Carbonato de Potasio;50-946-788;carbonato-de-potasio;(c)(s)nccccccccccOccClccCl;616.7335189506366
+47;2;Estearato de Magnesio;72-963-870;estearato-de-magnesio;(O)cc(C)Fc(C)ccccccBrcc(S)cCl;143.10099738298644
+48;3;Acido Adipico;43-527-984;acido-adipico;cFc(S)cccScc;216.6582819265012
+49;2;Propilenglicol;03-412-845;propilenglicol;(C)cO(s)cc(c)Oc(c);118.6382201581349
+50;2;Acetato de Etilo;15-275-786;acetato-de-etilo;occcccc(C)ccc(c)ccOIcccccClc(s)Clcc;697.2291235942917

@@ -1,0 +1,21 @@
+ID_EMPLEADO;APELLIDO;DNI;GENERO;TELEFONO_MOVIL;FECHA_NACIMIENTO;TITULO_UNIVERSITARIO;DIRECCION;FECHA_CONTRATACION;ID_NIVEL_ACCESO;NOMBRE;EMAIL
+1;Patiño;28132067;F;+34703876754;1965-09-09;Bioquímico;70006 Baker Shoal-Amyview- MO 45771;2014-03-21;2;Delfina;delfina.patiño581@truchomail.com
+2;Villa;34753515;M;+34 704693136;1969-08-08;Biotecnólogo;713 Karen Expressway-Brentville- WV 82704;2013-11-10;2;Noé;noé.villa224@fakemail.com
+3;Abella;35600675;M;+34 852 905 743;1994-10-22;Biotecnólogo;5458 Griffith Fort Apt. 405-Jessicahaven- AR 87787;2014-01-12;2;Valentín;valentín.abella433@fakemail.com
+4;Jáuregui;20855248;M;+34670 794 514;1976-04-01;Licenciado en Química;31909 Mary Vista-Lake Patrick- WA 20158;2016-08-04;1;Daniel;daniel.jáuregui859@repiolamail.com
+5;Pla;29968922;M;+34704 80 39 20;1958-12-14;Licenciado en Química;1299 Kenneth Flats Suite 815-East Larry- CT 97546;2014-05-08;2;Bernardo;bernardo.pla434@fakemail.com
+6;Valbuena;22849616;F;+34742 778 114;1995-01-08;Técnico Químico;Unit 0597 Box 6247-DPO AA 07590;2015-04-15;2;Isa;isa.valbuena281@altomail.com
+7;Romeu;34700314;F;+34 940332631;1960-03-08;Licenciado en Química;63161 Tate Camp-Michaelmouth- NJ 47264;2020-07-24;3;Juana;juana.romeu795@fakemail.com
+8;Estevez;21030726;M;+34 703 46 14 84;1988-04-28;Licenciado en Química;580 Anthony Turnpike-Hernandezshire- MA 47208;2012-10-04;2;Javier;javier.estevez295@repiolamail.com
+9;Olivera;34974675;M;+34713 41 23 56;1968-01-01;Biotecnólogo;7088 Travis Mount Suite 855-East Robert- KS 26164;2018-06-03;3;Tiburcio;tiburcio.olivera963@altomail.com
+10;Girona;28949841;F;+34716 553 386;1963-04-08;Bioquímico;75088 Jamie Square Apt. 962-Dicksonberg- MA 11817;2015-04-12;1;Felisa;felisa.girona960@fakemail.com
+11;Soler;32660253;F;+34 727 967 381;1971-07-30;Técnico Químico;636 Garcia Station Apt. 242-East Jasonland- ME 26981;2018-01-01;3;África;áfrica.soler391@repiolamail.com
+12;Guardia;22820846;M;+34720 096 414;1996-11-14;Bioquímico;7444 Jones Unions Apt. 470-South Kristenport- DC 29203;2018-06-07;1;Salvador;salvador.guardia146@altomail.com
+13;Roura;24494450;M;+34740 135 417;1987-08-03;Ingeniero Químico;62895 Anderson Vista-West Kelly- MS 36224;2018-08-13;2;Arsenio;arsenio.roura417@repiolamail.com
+14;Esparza;31152316;M;+34747 172 776;2001-01-24;Farmacéutico;50900 Gilbert Groves Apt. 636-Reneeview- KY 50531;2016-07-14;2;Juan Bautista;juan bautista.esparza995@repiolamail.com
+15;Palmer;20549574;M;+34653738315;1989-08-18;Biotecnólogo;53789 Anderson Lights-Jacobsview- MO 32843;2019-06-28;2;Nilo;nilo.palmer814@truchomail.com
+16;Monreal;35265787;M;+34 720118177;1985-11-25;Técnico Químico;PSC 3003- Box 4708-APO AE 51108;2012-07-17;3;Cruz;cruz.monreal952@truchomail.com
+17;Martín;31347901;M;+34 747 48 25 88;1989-02-06;Farmacéutico;18927 Miranda Mountain-Lake Mary- WV 42671;2016-06-16;3;Álvaro;álvaro.martín768@altomail.com
+18;Duarte;35569708;M;+34 807 32 22 87;1975-06-27;Ingeniero Químico;2291 Jacob Hills Suite 793-East Grace- NY 05030;2014-02-01;2;Francisco Jose;francisco jose.duarte922@truchomail.com
+19;Angulo;26780059;F;+34715 25 26 86;1968-07-06;Farmacéutico;535 Connor Parkway Apt. 685-Rosston- KY 56050;2013-05-09;3;María Manuela;maría manuela.angulo988@altomail.com
+20;Roca;25423915;M;+34 882 96 16 20;1960-02-08;Bioquímico;Unit 6444 Box 6690-DPO AP 18441;2016-04-08;2;Maxi;maxi.roca860@fakemail.com
